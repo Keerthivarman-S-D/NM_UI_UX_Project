@@ -1,4 +1,5 @@
 # Healthy Bytes – UI/UX Case Study
+# TEAM: 5 MINDS PARADISE
 Fuel Your Body, Your Way
 
 ![Project](https://img.shields.io/badge/Project-UI%2FUX%20Case%20Study-blueviolet)
