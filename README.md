@@ -8,7 +8,9 @@ Fuel Your Body, Your Way
 
 ---
 ## LOGO Animation
-https://github.com/user-attachments/assets/cb351eed-8377-4721-877b-e33aea77ca65
+
+https://github.com/user-attachments/assets/2f196a7e-ee68-4470-8439-fcf158f97cab
+
 
 
 ## Project Overview
