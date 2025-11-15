@@ -14,17 +14,12 @@ This case study includes user research, competitive analysis, wireframes, inform
 ---
 
 ## Live Prototype
-Add your Figma link here  
-(High-fidelity prototype with motion design and micro-interactions)
-
----
-
-## Design Process
+https://www.figma.com/design/Elzk6Dd56dOrQi2XwENfsH/Team-Idea?node-id=478-205&m=dev
 
 ---
 
 ## User Research
-
+![Alt Text](./comp.png)
 ### User Groups Interviewed
 - Gym enthusiasts  
 - Students  
@@ -53,6 +48,7 @@ Pricing, Delivery, Subscription, Social Media presence, Contact method.
 ---
 
 ## Information Architecture
+![Alt Text](./system.png)
 
 ---
 
