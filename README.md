@@ -7,6 +7,9 @@ Fuel Your Body, Your Way
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
+## LOGO Animation
+https://github.com/user-attachments/assets/cb351eed-8377-4721-877b-e33aea77ca65
+
 
 ## Project Overview
 Healthy Bytes is a personalized healthy meal delivery UI/UX design project that focuses on clean user experience, custom diets, and modern visual design.  
