@@ -30,7 +30,8 @@ https://www.figma.com/design/Elzk6Dd56dOrQi2XwENfsH/Team-Idea?node-id=478-205&m=
 - Gym enthusiasts  
 - Students  
 - Working professionals  
-- Elderly users  
+- Elderly users
+- senior citizens
 
 ### Key Insights
 - Users want affordable healthy food
